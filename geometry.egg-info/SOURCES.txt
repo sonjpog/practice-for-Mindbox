@@ -1,0 +1,8 @@
+setup.py
+geometry/__init__.py
+geometry/shapes.py
+geometry.egg-info/PKG-INFO
+geometry.egg-info/SOURCES.txt
+geometry.egg-info/dependency_links.txt
+geometry.egg-info/top_level.txt
+tests/tests.py
